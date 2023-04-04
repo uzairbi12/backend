@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="container-fluid">
-<span class="text-align" style="font-size:6vmin"> Rishton Academy Primary School</span>
+<span class="text-align rishton" style="font-size:6vmin"> Rishton Academy Primary School</span>
 <nav class="navbar navbar-expand-sm bg-light">
     <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
