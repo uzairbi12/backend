@@ -87,7 +87,7 @@
     <th>{$row['MedicalInformation']}</th>
     <th>{$row['ClassID']}</th>
     <th>{$row['Parent1ID']}</th>
-    <th>{$row['Parent2IS']}</th>
+    <th>{$row['Parent2ID']}</th>
     </tr>";
           }
 
